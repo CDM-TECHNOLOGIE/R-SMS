@@ -10,4 +10,5 @@ pkg install termux-api
 git clone https://github.com/CDM-TECHNOLOGIE/R-SMS
 
 cd R-SMS
+
 python SMS.py
